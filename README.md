@@ -1,2 +1,2 @@
-# monty-python-market-simulator
+# Monte Carlo Market Simulator
 A market simulator that generates random buy and sell orders.
